@@ -27,8 +27,12 @@ hr.title-break {
   top: -30px;
   background-color: var(--page-foreground);
   height: 5px;
-  width: 90%;
+  width: 93%;
   float: left;
+}
+
+hr.title-break.left {
+  width: 90%;
 }
 
 /* top block and socials */
@@ -100,12 +104,11 @@ hr.title-break {
 
 /* bottom block */
 #bottom-block {
-  /* z-index: -1;
-  background-color: red; */
+  /* background-color: red; */
   position: relative;
   padding-top: 1%;
   padding-bottom: 20%;
-  width: 98%;
+  width: 95%;
   left: 5%;
 }
 /* ------------------------------------ */
